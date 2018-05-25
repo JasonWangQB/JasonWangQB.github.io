@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
+  #about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -215,8 +215,8 @@ font:
 #social:
   #LinkLabel: Link
 social:
-  GitHub: Link
-  WeChat: Link
+  GitHub: https://github.com/JasonWangQB
+  #WeChat: Link
 
 
 # Social Links Icons
@@ -231,7 +231,7 @@ social_icons:
   GitHub: github
   #Twitter: twitter
   #Weibo: weibo
-  WeChat: wechat
+  #WeChat: wechat
 
 
 # Sidebar Avatar
