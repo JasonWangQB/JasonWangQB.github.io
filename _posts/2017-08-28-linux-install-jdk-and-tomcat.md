@@ -1,7 +1,15 @@
 ---
 title: Linux安装JDK和Tomcat
 date: 2017-08-28 14:30:18
-tags: [Linux,Java,JDK,Tomcat]
+avatar: Jason Wang
+categories:
+- Linux
+- Java
+tags: 
+- Linux
+- Java
+- JDK
+- Tomcat
 ---
 ## 1. 安装JDK
 

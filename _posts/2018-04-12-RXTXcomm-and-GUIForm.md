@@ -1,8 +1,14 @@
 ---
-title: 正则判断
+title: RXTXcomm串口使用及IDEA GUI Form，Maven打包
 date: 2018-04-12 14:30:18
 avatar: Jason Wang
-tags: [RXTXcomm,IDEA GUI Form,bat]
+categories: 
+- Java
+- IDEA
+tags: 
+- RXTXcomm 
+- IDEA GUI Form 
+- bat
 ---
 
 ## 1. RXTXcomm.jar的使用

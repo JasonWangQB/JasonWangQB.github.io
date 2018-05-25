@@ -2,7 +2,13 @@
 title: Linux搭建Hexo
 date: 2017-08-25 14:30:18
 avatar: Jason Wang
-tags: [Linux,NodeJS,Hexo]
+categories:
+- Linux
+- Hexo
+tags: 
+- Linux
+- NodeJS
+- Hexo
 ---
 ## 1. 安装NodeJS
 ### 1.1 下载NodeJS安装包，然后将安装包移动到系统目录中；解压到对应的文件夹下，前提是这个文件夹要存在。

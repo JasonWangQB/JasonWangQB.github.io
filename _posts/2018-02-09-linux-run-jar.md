@@ -2,7 +2,12 @@
 title: Linux运行jar包
 date: 2018-02-09 14:30:18
 avatar: Jason Wang
-tags: [Linux,Java]
+categories: 
+- Linux
+- Java
+tags: 
+- Linux
+- Java
 ---
 
 ### 1. 方式一
